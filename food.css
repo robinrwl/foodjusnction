@@ -81,7 +81,7 @@ header .navbar li a:hover{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(/main.jpg) no-repeat;
+    background: url(main.jpg) no-repeat;
     background-size: cover;
 }
 .home .content{
@@ -253,7 +253,7 @@ width: 100%;
 }
 
 .testimonails{
-    background-image: url(/m5.jpg);
+    background-image: url(m5.jpg);
     object-fit: cover;
 }
 .testimonails .content {
@@ -384,7 +384,7 @@ font-size: 1em;
 .toggle.active{
     height: 30px;
     width: 30px;
-    background-image: url(/set.png);
+    background-image: url(set.png);
     background-position: center;
     background-repeat: no-repeat;
      z-index: 100000000;
@@ -396,7 +396,7 @@ font-size: 1em;
     width: 30px;
     height: 30px;
     background-color: rgb(46, 6, 65);
-    background-image: url(/set.png);
+    background-image: url(set.png);
     position: relative;
     border-radius: 2px solid var(--white);
     background-repeat: no-repeat;
